@@ -113,7 +113,7 @@ export default function Home() {
                 whileTap={{ scale: 0.95 }}
                 className="inline-block mt-10 px-6 py-3 border border-orange-400 text-white font-medium rounded-md hover:bg-orange-400 hover:text-black transition-all duration-300"
               >
-                Book a Consultation →
+                Book a Consultation now  →
               </motion.a>
             </motion.div>
           </AnimatePresence>
